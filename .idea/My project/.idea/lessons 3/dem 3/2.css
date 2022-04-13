@@ -1,0 +1,88 @@
+.box {
+    width: 562px;
+    height: 397px;
+    background: silver;
+    /*display: flex;*/
+    /*position: relative;*/
+
+
+
+
+
+}
+.sm {
+    width: 562px;
+    height: 230PX;
+    background: #122d3f;
+    position: relative;
+    /*position: absolute;*/
+    top: 80px;
+
+
+}
+
+
+.ik{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    position: absolute;
+    background: #6a65e2;
+    top: 180px;
+    left: 85px;
+    margin-right: 10px;
+
+}
+.rd{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    position: absolute;
+    background: #6a65e2;
+    top: 180px;
+    left: 235px;
+    margin-right: 10px;
+
+}
+.fd{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    position: absolute;
+    background: #6a65e2;
+    top: 180px;
+    left: 380px;
+
+}
+.b {
+    /*background: red;*/
+    top: 40 px;
+    left: 450px;
+    font-size: 40px;
+    position: absolute;
+
+
+
+}
+.tr {
+    /*background: red;*/
+    position: absolute;
+    font-size: 90px;
+    left: 500px;
+    bottom: 630px;
+    
+    
+
+
+}
+.blue_block{
+
+    width: 100px;
+    height: 40px;
+    background: #112e3f;
+    border-radius: 10%;
+    top: 19px;
+    left:45px ;
+    position: absolute;
+    
+}

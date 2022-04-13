@@ -1,0 +1,52 @@
+.cont {
+    width: 1200px;
+    min-height: 800px;
+    background: silver;
+    margin: 0 auto;
+
+
+}
+
+.a {
+    width: 100%;
+    height: 200px;
+    background: black;
+
+}
+
+.in-cont {
+    width: 100%;
+    min-height: 600px;
+    background: darkcyan;
+    display: flex;
+
+}
+
+.bcdefg-con {
+    width: 75%;
+    height: 600px;
+    background: darkred;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 33.3%;
+    height: 300px;
+    background: rgb(9, 92, 121);
+    background: radial-gradient(circle, rgba(9, 92, 121, 1) 15%, rgba(32, 208, 138, 1) 74%, rgba(32, 206, 138, 1) 85%, rgba(0, 212, 255, 1) 100%);
+
+
+}
+
+.h {
+    width: 25%;
+    height: 600px;
+    background: bisque;
+
+}
+
+
+
+
+

@@ -1,0 +1,85 @@
+.blue {
+    height: 420px;
+    width: 700px;
+    background: #66e2c1;
+    display: flex;
+}
+
+body {
+
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.l-cont,.r-cont  {
+
+    width: 50%;
+    height: 100%;
+    /*background: silver;*/
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-right: 10px;
+
+}
+.r-cont {
+
+    width: 50%;
+    height: 100%;
+    /*background: silver;*/
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+margin-left: 10px;
+}
+
+
+
+
+.card {
+
+    height: 100px;
+    width: 300px;
+    background: whitesmoke;
+    border-radius: 5px;
+    display: flex;
+}
+
+.ikon {
+    /*background: yellow;*/
+    width: 70px;
+    font-size:40px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: dimgrey;
+
+
+}
+.tx {
+color: #a1a1a1;
+    font-size: 14px;
+
+
+
+
+}
+.desp {
+
+    width: 220px;
+
+}
+.title {
+margin-top: 10px;
+    font-size: 20px;
+    font-family: Cambria, sans-serif;
+    text-transform: capitalize;
+    /*text-align: center;*/
+    margin-bottom: 8px;
+    font-weight: 700px;
+    color: gold;
+
+}
