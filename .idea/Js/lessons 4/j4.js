@@ -82,30 +82,61 @@
 //         }
 //         data(array);
 
-
 // - створити функцію яка приймає масив об'єктів з наступними полями id,name,age , та виводить їх в документ.
+// let arr = [
+//     {id: 1,name: `Mr.Proper`,age: 70},
+//     {id: 2,name:'Galya',age: 67},
+//     {id: 3,name:'Stas',age: 25 },
+//
+//
+//
+// ]
+// function obj(array){
+//
+//     for (const item of array) {
+//
+//         document.write(`<div>${item.id} ${item.name} ${item.age}</div>`)
+//
+//
+//     }
+//
+// }
+// obj(arr);
 // Для кожного об'єкту окремий блок.}
-let arr = [
-    {id: 1,name: `Mr.Proper`,age: 70},
-    {id: 2,name:'Galya',age: 67},
-    {id: 3,name:'Stas',age: 25 },
-
-
-
-]
-function obj(array){
-
-    for (const item of array) {
-
-        document.write(`<div>${item.id} ${item.name} ${item.age}</div>`)
-
-
-    }
-
-}
-obj(arr);
-
 
 // - створити функцію яка повертає найменьше число з масиву
+// let arr = [1, 2, 3, 5, 7, -3]
+//
+// function minNum(array) {
+//     let min = array[0];
+//     for (let item of array);
+//
+//
+//
+//
+//     {
+//
+//
+//         if (item < min);
+//
+//         {
+//             min = item
+//         }
+//     }
+//     return min;
+// }
+//
+// console.log( minNum (arr));
+
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад
 // [1,2,10]->13
+// let arr = [1, 4, 7 ];
+// function foo(array) {
+//     let sum = 0;
+//     for (const item of array) {
+//        sum += item;
+//     }
+// return sum;
+// }
+//
+// console.log(foo(arr));
