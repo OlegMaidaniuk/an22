@@ -9,28 +9,28 @@
 //     console.log(`No Virno`)
 // }
 
-// let time = +prompt(`wth time is it ?`)
-// if (time > 16 && time < 17 ){
-//
-//     console.log(`evning`)
-//
-//
-// }else if(time > 18 && time <= 23) {
-//     console.log(`night`)
-//
-// }else if ( time > 0 && time <=14 ){
-//     console.log(`morning`)
-//
-//
-// }else if (time >14 && time <=15){
-//
-//     console.log(`lunch`)
-//
-// }else {
-//     console.log(`Ти шо Нарік ? Are you a drug addict?`)
-//
-//
-// }
+let time = +prompt(`wth time is it ?`)
+if (time > 16 && time < 17 ){
+
+    console.log(`evning`)
+
+
+}else if(time > 18 && time <= 23) {
+    console.log(`night`)
+
+}else if ( time > 0 && time <=14 ){
+    console.log(`morning`)
+
+
+}else if (time >14 && time <=15){
+
+    console.log(`lunch`)
+
+}else {
+    console.log(`Ти шо Нарік ? Are you a drug addict?`)
+
+
+}
 
 // let day = 20;
 // if (day >= 1 && day <= 11) {
@@ -71,7 +71,7 @@
 //         break;
 //     default:
 // }
-
+//
 // let a = 0;
 // let b = 0;
 //
@@ -100,7 +100,7 @@
 //     console.log(c)
 // }else if (a===b&&b===c){
 //     console.log(`equal`);
-// }
+//  }
 
 
 
